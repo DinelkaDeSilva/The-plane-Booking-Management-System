@@ -1,0 +1,8 @@
+Ticket Information:
+Row: c
+Seat: 1
+Price: £200.00
+Person Information:
+Name: kk
+Surname: ii
+Email: jj
